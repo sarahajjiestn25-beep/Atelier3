@@ -1,4 +1,4 @@
-# TP PHP – Variables, Conditions et Boucles
+# Atelier3 PHP – Variables, Conditions et Boucles
 
 ## 📚 Module
 
